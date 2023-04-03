@@ -38,7 +38,7 @@
     "jasme": "^6.0.0",
     "koa": "^2.6.2",
     "koa-connect": "^2.0.1",
-    "prom-client": "^13.0.0",
+    "prom-client": "^14.2.0",
     "supertest": "^3.3.0",
     "supertest-koa-agent": "^0.3.0",
     "typescript": "^3.4.5"
